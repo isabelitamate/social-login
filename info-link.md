@@ -36,3 +36,30 @@ https://auth0.com/docs/connections/social/google#next-steps
 
 Facebook social login:
 https://auth0.com/docs/connections/social/facebook#2-create-and-enable-a-connection-in-auth0
+
+
+##More
+https://dev.to/ogwurujohnson/social-logins-with-google-auth-4e15
+https://www.youtube.com/watch?v=ea9KyE78qKI
+https://codeburst.io/react-authentication-with-twitter-google-facebook-and-github-862d59583105
+https://programacion.net/articulo/como_desarrollar_un_formulario_de_registro_en_un_click_con_google_1494
+https://codeburst.io/adding-google-sign-in-to-your-webapp-a-react-example-dcec8c73cb9f
+
+##NPM:
+https://www.npmjs.com/package/react-social-login
+https://www.npmjs.com/package/react-facebook-login
+https://www.npmjs.com/package/react-google-login
+
+##CODE:
+https://stackoverflow.com/questions/31610461/using-google-sign-in-button-with-react
+
+https://baturamobile.com/blog/social-login-registro-redes-sociales/
+https://gist.github.com/bradtraversy/815369774ece6ede28a564e2a1e7153a
+
+
+SIGN IN / LOG IN
+https://community.auth0.com/t/is-there-a-difference-between-login-signup-for-social/15038/4
+
+
+
+
